@@ -1,3 +1,2 @@
-from django.db import models # flake8: noqa
+from django.db import models  # noqa
 
-# Create your models here.

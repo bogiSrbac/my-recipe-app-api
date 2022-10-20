@@ -1,3 +1,2 @@
-from django.contrib import admin # flake8: noqa
+from django.contrib import admin  # noqa
 
-# Register your models here.
